@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsList</string>
+    <string name="loginlabel">Login</string>
+    <string name="loginBtn">Connexion</string>
+</resources>
